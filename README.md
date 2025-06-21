@@ -32,6 +32,8 @@ Place your log files inside the logs/ directory.
    - alerts_combined.csv
    - ssh_failed_logins.csv
 
+> ❗The output/ directory has been deleted from this repository to prevent exposing sensitive data. Output files will be generated when you run the script on your local machine.
+
 ## Example Output
 ![](https://github.com/deepthiii33/IDS-LogFileAnalyzer/blob/main/screenshots/output(1).png)
 ![](https://github.com/deepthiii33/IDS-LogFileAnalyzer/blob/main/screenshots/output(2).png)
